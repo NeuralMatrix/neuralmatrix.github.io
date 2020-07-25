@@ -1,1 +1,1 @@
-Sitemap:http://sensode.net/sensblack/sitemap.xml
+Sitemap:sitemap.xml
